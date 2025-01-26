@@ -135,5 +135,5 @@
 
 
 ## best tools :
-- [megagrep](https://github.com/claire-lex/megagrep) : find interesting parts of the code to manually check based on keywords. Comes with additional features such as per-file statistics or dev comments search.
+- [semgrep](https://github.com/semgrep/semgrep) : use grep for finding vuln in code!
 - [checkmarx](https://checkmarx.com/) : good tools for cloud and on permise scan 
