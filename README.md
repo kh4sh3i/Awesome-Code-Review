@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="/img/logo.png" alt="" width="400px;"></a>
+  <a href=""><img src="/img/logo.png" alt="" height="250px;"></a>
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-blue">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/Awesome-Code-Review">
@@ -30,7 +30,7 @@
 
 
 
-### Learning Platforms
+## Learning Platforms
 
 - [OWASP's Secure Coding Dojo Example](https://owasp.org/SecureCodingDojo/codereview101)
 - [Secure Code Warrior](https://www.securecodewarrior.com/products/training-ground) (paid service with free trial)
@@ -119,7 +119,7 @@
 
 
 
-### Vulnerable Apps
+## Vulnerable Apps
 
 - [Vulnerable Task Manager (vtm)](https://github.com/redpointsec/vtm) : vulnerable task manager in Python/Django, correction not available.
 - [OWASP WebGoat](https://github.com/WebGoat/WebGoat) : vulnerable web application with Java backend, correction available.
@@ -128,7 +128,7 @@
 
 
 
-### Static Application Security Testing (SAST) Tools
+## Static Application Security Testing (SAST) Tools
 
 - [OWASP's Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 - [A curated list of static analysis tools and tools and config files (GitHub)](https://github.com/analysis-tools-dev/static-analysis)
@@ -136,3 +136,8 @@
 - [grepmarx -  A source code static analysis platform for AppSec enthusiasts](https://github.com/Orange-Cyberdefense/grepmarx)
 - [Joern - Generate queriable code property graphs](https://joern.io/)
 - [Sourcetrail - open-source interactive source explorer](https://github.com/OpenSourceSourceTrail/Sourcetrail)
+
+
+## best tools :
+- [megagrep](https://github.com/claire-lex/megagrep) : find interesting parts of the code to manually check based on keywords. Comes with additional features such as per-file statistics or dev comments search.
+- [checkmarx](https://checkmarx.com/) : good tools for cloud and on permise scan 
