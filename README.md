@@ -30,9 +30,10 @@
 
 
 
-## Learning Platforms
+### Learning Platforms
 
-
+- [OWASP's Secure Coding Dojo Example](https://owasp.org/SecureCodingDojo/codereview101)
+- [Secure Code Warrior](https://www.securecodewarrior.com/products/training-ground) (paid service with free trial)
 
 
 
@@ -115,3 +116,23 @@
 - [ ] Are unusual activities such as multiple login attempts logged?
 - [ ] Do logs have enough detail to reconstruct events for audit purposes?
 
+
+
+
+### Vulnerable Apps
+
+- [Vulnerable Task Manager (vtm)](https://github.com/redpointsec/vtm) : vulnerable task manager in Python/Django, correction not available.
+- [OWASP WebGoat](https://github.com/WebGoat/WebGoat) : vulnerable web application with Java backend, correction available.
+- [Damn Vulnerable iOS App 1](https://github.com/prateek147/DVIA) : vulnerable iOS app written in Objective-C, correction available.
+- [Damn Vulnerable iOS App 2](https://github.com/prateek147/DVIA-v2) : vulnerable iOS app written in Swift, correction available.
+
+
+
+### Static Application Security Testing (SAST) Tools
+
+- [OWASP's Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
+- [A curated list of static analysis tools and tools and config files (GitHub)](https://github.com/analysis-tools-dev/static-analysis)
+- [Static Application Security Testing Suites used in GitLab's CI/CD](https://docs.gitlab.com/ee/user/application_security/sast/)
+- [grepmarx -  A source code static analysis platform for AppSec enthusiasts](https://github.com/Orange-Cyberdefense/grepmarx)
+- [Joern - Generate queriable code property graphs](https://joern.io/)
+- [Sourcetrail - open-source interactive source explorer](https://github.com/OpenSourceSourceTrail/Sourcetrail)
