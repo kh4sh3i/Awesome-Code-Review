@@ -134,6 +134,18 @@
 - [Sourcetrail - open-source interactive source explorer](https://github.com/OpenSourceSourceTrail/Sourcetrail)
 
 
-## best tools :
+## source code review best tools :
 - [semgrep](https://github.com/semgrep/semgrep) : use grep for finding vuln in code!
 - [checkmarx](https://checkmarx.com/) : good tools for cloud and on permise scan 
+
+
+## gitlab tools :
+download all repo from gitlab :
+```
+./tools/http_clone.sh -u GITLAB_URL -g GROUP_ID -t PRIVATE_TOKEN -n USERNAME
+```
+
+show gitlab commit ids for add to report :
+```
+./tools/show_commit_ids.sh -d /home/kali/gitlab
+```
