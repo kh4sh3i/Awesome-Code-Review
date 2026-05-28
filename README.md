@@ -18,6 +18,7 @@
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
+- [Kodus](https://kodus.io) Open source AI code review tool for pull requests, with repository context, custom rules and BYOK support.
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
